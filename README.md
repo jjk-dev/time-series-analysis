@@ -1,4 +1,4 @@
-# timeseries-analysis
+# Timeseries Analysis
 
 ## Download file on SageMaker Studio Notebook
 1. Choose **File** tab on the top panel and go to **New**. Select **Termial**.
